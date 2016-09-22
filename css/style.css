@@ -1,4 +1,4 @@
-.title {
+ .title {
 margin-left: 500px;
 }
 
@@ -17,6 +17,8 @@ margin-left: 500px;
 
 .hobby2 {
 	color: orange;
+	text-align: 250px;
+
 }
 
 .age {
@@ -63,5 +65,14 @@ margin-left: 500px;
 }
 
 .flower {
+	margin-left: 450px;
+}
+
+.personality {
+	margin-left: 450px;
+}
+
+.personality2 {
+	color: blue
 	margin-left: 450px;
 }
