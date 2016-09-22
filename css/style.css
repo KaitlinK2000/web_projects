@@ -1,0 +1,67 @@
+.title {
+margin-left: 500px;
+}
+
+h1 {
+	color: cyan;
+}
+
+p {
+	color: purple;
+	margin-left: 500px;
+}
+
+.hobby {
+margin-left: 500px;
+}
+
+.hobby2 {
+	color: orange;
+}
+
+.age {
+	margin-left: 500px;
+}
+
+.games {
+	margin-left: 500px;
+}
+
+.games2 {
+	color: green;
+}
+
+.header {
+	background-image: url(http://static1.squarespace.com/static/5745f9d4f699bbc80b4bd746/5769e7c0f7d1ff8560a306a2/5769e8c8f7d1ff8560a31a4f/1466558664024/Kitten1.jpg?format=original);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 500px;
+	margin-left: 150px;
+}
+
+.welcome {
+	text-align: center;
+	padding-top; 150px;
+	font-size: 78
+}
+
+.family2 {
+	color: red;
+}
+
+.family {
+	margin-left: 500px;
+}
+
+.books {
+	margin-left: 500px;
+}
+
+.books2 {
+	margin-left: 480px;
+	color: magenta;
+}
+
+.flower {
+	margin-left: 450px;
+}
