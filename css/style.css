@@ -73,6 +73,12 @@ margin-left: 500px;
 }
 
 .personality2 {
-	color: blue
 	margin-left: 450px;
+	color: blue
+}
+
+.familytable {
+	margin-left: 450px;
+	background-color: aqua;
+	width: 15%;
 }
