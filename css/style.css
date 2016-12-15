@@ -1,19 +1,11 @@
- .title {
-margin-left: 500px;
-}
-
 h1 {
 	color: cyan;
 }
 
 p {
 	color: purple;
-	margin-left: 500px;
 }
 
-.hobby {
-margin-left: 500px;
-}
 
 .hobby2 {
 	color: orange;
@@ -21,13 +13,7 @@ margin-left: 500px;
 
 }
 
-.age {
-	margin-left: 500px;
-}
 
-.games {
-	margin-left: 500px;
-}
 
 .games2 {
 	color: green;
@@ -38,47 +24,76 @@ margin-left: 500px;
 	background-repeat: no-repeat;
 	width: 100%;
 	height: 500px;
-	margin-left: 150px;
 }
 
 .welcome {
 	text-align: center;
 	padding-top; 150px;
-	font-size: 78
+	font-size: 78;
+	font-family: 'Acme', sans-serif;
 }
 
 .family2 {
 	color: red;
 }
 
-.family {
-	margin-left: 500px;
-}
 
 .books {
-	margin-left: 500px;
+
 }
 
 .books2 {
-	margin-left: 480px;
+	
 	color: magenta;
+	font-family: 'Gidugu', sans-serif;
 }
 
-.flower {
-	margin-left: 450px;
-}
 
-.personality {
-	margin-left: 450px;
-}
 
 .personality2 {
 	margin-left: 450px;
 	color: blue
+<<<<<<< HEAD
 }
 
 .familytable {
 	margin-left: 450px;
 	background-color: aqua;
 	width: 15%;
+=======
+
+}
+
+.fifi {
+	height: 450px;
+
+}
+
+* {
+	font-family: 'Open Sans Condensed', sans-serif;
+	background-color:#E0FFFF;
+}
+
+.container {
+	width: 55%;
+	margin:auto;
+	background-color: rgba(211,211,211,0.2);
+}
+
+.harrypotter {
+	width:90%;
+	height: 500px;
+}
+
+img { width: 100%;}
+
+
+nav li {
+	display: inline-block;
+	border:2px solid cyan;
+	border-radius:5px;
+	background-color: #afeeee;
+	margin-left: 20px;
+	font-family: Oswald;
+>>>>>>> origin/master
 }
